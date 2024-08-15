@@ -17,4 +17,6 @@ Set Up Okta:
 5. Click Create App Integration.
 6. Choose the platform (e.g., Web) and the sign-on method (e.g., OpenID Connect for OAuth 2.0 or SAML 2.0).
 7. Fill out the necessary details such as redirect URI and allowed grant types.
+![image](https://github.com/user-attachments/assets/6d6b183b-8309-42b7-b5df-cba286e4c9c8)
+
 8. Save the application.
