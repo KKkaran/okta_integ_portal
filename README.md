@@ -3,7 +3,7 @@
 To set up and run this project, follow these steps:
 1. git clone <repository-url>
   Navigate to the Repository Directory
-2. cd <repo-directory>
+2. cd okta_integ_portal
 3. npm install
 4. Create a .env File in the root directory of the project.
 5. Refer to the provided image for the required environment variable names and values.
