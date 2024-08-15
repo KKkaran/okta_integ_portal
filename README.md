@@ -6,7 +6,7 @@ To set up and run this project, follow these steps:
 2. cd okta_integ_portal
 3. npm install
 4. Create a .env File in the root directory of the project.
-5. Refer to the provided image for the required environment variable names and values.
+5. Refer to the provided image for the required environment variable names and values. The rest of the account related vars will need to be fetched from the dashboard. Please follow the instructions below for that:
 ![image](https://github.com/user-attachments/assets/fb5c0839-712e-4071-86b3-be703ada5735)
 
 Set Up Okta:
